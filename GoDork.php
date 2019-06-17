@@ -75,7 +75,7 @@ define('CSE_TOKEN', 'partner-pub-2698861478625135:3033704849');
                 echo urldecode(get_string($key, '&q=', '&sa'))."\n";
             }
         }else{
-            echo "DONE!";
+            echo "{!} DONE!\n";
             exit();
         }
         $i = $i+10;
