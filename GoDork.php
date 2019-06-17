@@ -4,7 +4,6 @@
 * 
 * @Author : Izzeldin Addarda [ Security Ghost ]
 * @Big Thanks for Teguh Aprianto about the Google CSE Key!
-* @Copyright 2019 Mazterin.com
 * 
 **/
 define('CSE_TOKEN', 'partner-pub-2698861478625135:3033704849');
